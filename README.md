@@ -1,8 +1,8 @@
 - 👋 Hi, I’mJuliet James
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,Django 
-- 💞️ I’m looking to collaborate on onsite jobs and wors
-- 📫 How to reach me in linkedin.com/julietjames
+- 💞️ I’m looking to collaborate on onsite jobs and works
+- 📫 reach me in linkedin.com/julietjames
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
